@@ -1,115 +1,195 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "नमस्कार",
+      "description": "👋 मैं हूँ भूमिका वार्ष्णेय। मैंने वर्ष 2012 में बी-टेक पूरा किया है और बाद में सभी पृष्ठभूमि और कौशल स्तरों के छात्रों के साथ प्रभावी संबंध बनाने की क्षमता के साथ प्रमाणित योग प्रशिक्षक बन गया। मैं उत्कृष्ट संचार और समस्या निवारण कौशल के साथ मेहनती, समर्पित और सहायक हूं। धन्यवाद 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "मेरे बारे में",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "आसन:1",
+        "startDate": "bla-bla",
+        "description": "भुजंगासन (संस्कृत: भुजंगसन; आईएएसटी: भुजंगासन) या कोबरा मुद्रा हठ योग और व्यायाम के रूप में आधुनिक योग में एक झुकनेवाला आसन है। यह आमतौर पर उर्ध्व मुख संवासन (ऊपर की ओर कुत्ते की मुद्रा) के विकल्प के रूप में सूर्य नमस्कार (सूर्य को सलाम) में आसन के एक चक्र में किया जाता है।",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/asana1/p1.jpg",
+          "images/portfolio/asana1/p2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "आसन:2",
+        "startDate": "bla-bla",
+        "description": "भुजंगासन (संस्कृत: भुजंगसन; आईएएसटी: भुजंगासन) या कोबरा मुद्रा हठ योग और व्यायाम के रूप में आधुनिक योग में एक झुकनेवाला आसन है। यह आमतौर पर उर्ध्व मुख संवासन (ऊपर की ओर कुत्ते की मुद्रा) के विकल्प के रूप में सूर्य नमस्कार (सूर्य को सलाम) में आसन के एक चक्र में किया जाता है।",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/asana2/p1.jpg",
+          "images/portfolio/asana2/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "आसन:3",
+        "startDate": "bla-bla",
+        "description": "भुजंगासन (संस्कृत: भुजंगसन; आईएएसटी: भुजंगासन) या कोबरा मुद्रा हठ योग और व्यायाम के रूप में आधुनिक योग में एक झुकनेवाला आसन है। यह आमतौर पर उर्ध्व मुख संवासन (ऊपर की ओर कुत्ते की मुद्रा) के विकल्प के रूप में सूर्य नमस्कार (सूर्य को सलाम) में आसन के एक चक्र में किया जाता है।",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/asana3/p1.jpg",
+          "images/portfolio/asana3/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "आसन:4",
+        "startDate": "bla-bla",
+        "description": "भुजंगासन (संस्कृत: भुजंगसन; आईएएसटी: भुजंगासन) या कोबरा मुद्रा हठ योग और व्यायाम के रूप में आधुनिक योग में एक झुकनेवाला आसन है। यह आमतौर पर उर्ध्व मुख संवासन (ऊपर की ओर कुत्ते की मुद्रा) के विकल्प के रूप में सूर्य नमस्कार (सूर्य को सलाम) में आसन के एक चक्र में किया जाता है।",
+        "images": [
+          "images/portfolio/asana4/p1.jpg",
+          "images/portfolio/asana4/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "आसन:5",
+        "startDate": "bla-bla",
+        "description": "भुजंगासन (संस्कृत: भुजंगसन; आईएएसटी: भुजंगासन) या कोबरा मुद्रा हठ योग और व्यायाम के रूप में आधुनिक योग में एक झुकनेवाला आसन है। यह आमतौर पर उर्ध्व मुख संवासन (ऊपर की ओर कुत्ते की मुद्रा) के विकल्प के रूप में सूर्य नमस्कार (सूर्य को सलाम) में आसन के एक चक्र में किया जाता है।",
+        "images": [
+          "images/portfolio/asana5/p1.jpg",
+          "images/portfolio/asana5/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Ericson",
+        "title": "Data Analyst",
+        "years": "10.2013",
         "mainTech": [
-          "Angular 8/9/10"
+          "bla"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "bla",
+          "bla"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Xiomi",
+        "title": "Intern",
+        "years": "01.2015",
         "mainTech": [
-          "Angular 7/8"
+          "bla bla"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Reliance",
+        "title": "Admin Head",
+        "years": "10.2017",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Diploma in Yog",
+        "title": "Student",
+        "years": "5.2018",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Masters in Yog Therapy",
+        "title": "Student",
+        "years": "10.2020- Present",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
         ]
       }
     ]
