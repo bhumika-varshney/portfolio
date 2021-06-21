@@ -49,7 +49,7 @@ header {
 	padding-bottom: 0;
 }
 #home {
-	min-height: 640px;
+	min-height: 660px;
 }
 #home > .row.aligner > .col-md-12 > div {
 	position: relative;
@@ -433,4 +433,9 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+@media only screen and (max-width: 1169px) {
+	.vertical-timeline--animate .vertical-timeline-element-content.bounce-in {
+		animation: cd-bounce-2 .6s !important;
+	}
 }
