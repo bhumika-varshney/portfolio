@@ -1,0 +1,192 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Bhumika Varshney. I have completed B-Tech in year 2012 & later became Certified yoga instructor with an ability to build effective relationships with students of all background and skill levels. I am hardworking, dedicated & supportive with excellent communication & problem solving skills. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Asanas",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Asana Name-1",
+        "startDate": "bla-bla",
+        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
+        "images": [
+          "images/portfolio/asana1/p1.jpg",
+          "images/portfolio/asana1/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Asana Name-2",
+        "startDate": "bla-bla",
+        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
+        "images": [
+          "images/portfolio/asana2/p1.jpg",
+          "images/portfolio/asana2/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Asana Name-3",
+        "startDate": "bla-bla",
+        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
+        "images": [
+          "images/portfolio/asana3/p1.jpg",
+          "images/portfolio/asana3/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Asana Name-4",
+        "startDate": "bla-bla",
+        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
+        "images": [
+          "images/portfolio/asana4/p1.jpg",
+          "images/portfolio/asana4/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Asana Name-5",
+        "startDate": "bla-bla",
+        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
+        "images": [
+          "images/portfolio/asana5/p1.jpg",
+          "images/portfolio/asana5/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ericson",
+        "title": "Data Analyst",
+        "years": "10.2013",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Xiomi",
+        "title": "Intern",
+        "years": "01.2015",
+        "mainTech": [
+          "bla bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Reliance",
+        "title": "Admin Head",
+        "years": "10.2017",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Diploma in Yog",
+        "title": "Student",
+        "years": "5.2018",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      },
+      {
+        "company": "Masters in Yog Therapy",
+        "title": "Student",
+        "years": "10.2020- Present",
+        "mainTech": [
+          "bla"
+        ],
+        "technologies": [
+          "bla",
+          "bla"
+        ]
+      }
+    ]
+  }

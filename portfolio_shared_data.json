@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Bhumika Varshney",
+      "titles": [ "Engineer", "Yoga Instructor", "Workout trainer", "Fitness Guide" ],
+      "social": [
+        {
+          "name": "Facebook",
+          "url": "www.facebook.com",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "Instagram",
+          "url": "www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Communication Skills",
+          "class": "fa fa-handshake",
+          "level": "95"
+        },
+        {
+          "name": "Versatile Yoga Poses",
+          "class": "fa fa-male",
+          "level": "95"
+        },
+        {
+          "name": "Group Instruction",
+          "class": "fa fa-book",
+          "level": "80"
+        },
+        {
+          "name": "Program Development",
+          "class": "fa fa-tasks",
+          "level": "90"
+        },
+        {
+          "name": "Safety Techniques",
+          "class": "fa fa-hand-paper",
+          "level": "70"
+        },
+        {
+          "name": "Demonstrating Exercises",
+          "class": "fa fa-bullhorn",
+          "level": "75"
+        },
+        {
+          "name": "Leadership Qualities",
+          "class": "fa fa-user",
+          "level": "85"
+        }
+      ]
+    }
+  }
