@@ -1,187 +1,192 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Bhumika Varshney. I have completed B-Tech in year 2012 & later became Certified yoga instructor with an ability to build effective relationships with students of all background and skill levels. I am hardworking, dedicated & supportive with excellent communication & problem solving skills. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Asanas",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Bhumika Varshney. I have completed B-Tech in year 2012 & later became Certified Yoga Instructor, Yoga Teacher & Evaluator with an ability to build effective relationships with students of all background and skill levels. I am hardworking, dedicated & supportive with excellent communication & problem solving skills. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Asanas",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Gomukhasana",
+      "startDate": "Sitting Asana",
+      "description": "A Sanskrit word, Gomukhasana literally translates into a cow face posture (go – cow, mukha – face, asana – pose). According to Gheranda Samhita, it strengthens the respiratory system. If practiced for 10 min. or more then it eradicates tiredness, fatigue, stress.",
+      "images": [
+        "images/portfolio/asana1/p1.jpg",
+        "images/portfolio/asana1/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Asana Name-1",
-        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
-        "images": [
-          "images/portfolio/asana1/p1.jpg",
-          "images/portfolio/asana1/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "Asana Name-2",
-        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
-        "images": [
-          "images/portfolio/asana2/p1.jpg",
-          "images/portfolio/asana2/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "Asana Name-3",
-        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
-        "images": [
-          "images/portfolio/asana3/p1.jpg",
-          "images/portfolio/asana3/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "Asana Name-4",
-        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
-        "images": [
-          "images/portfolio/asana4/p1.jpg",
-          "images/portfolio/asana4/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "Asana Name-5",
-        "description": "Bhujangasana (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar (Salute to the Sun) as an alternative to Urdhva Mukha Svanasana (Upwards Dog Pose)",
-        "images": [
-          "images/portfolio/asana5/p1.jpg",
-          "images/portfolio/asana5/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Ericson",
-        "title": "Data Analyst",
-        "years": "10.2013",
-        "mainTech": [
-          "bla"
-        ],
-        "technologies": [
-          "bla",
-          "bla"
-        ]
-      },
-      {
-        "company": "Xiomi",
-        "title": "Intern",
-        "years": "01.2015",
-        "mainTech": [
-          "bla bla"
-        ],
-        "technologies": [
-          "bla",
-          "bla"
-        ]
-      },
-      {
-        "company": "Reliance",
-        "title": "Admin Head",
-        "years": "10.2017",
-        "mainTech": [
-          "bla"
-        ],
-        "technologies": [
-          "bla",
-          "bla"
-        ]
-      },
-      {
-        "company": "Diploma in Yog",
-        "title": "Student",
-        "years": "5.2018",
-        "mainTech": [
-          "bla"
-        ],
-        "technologies": [
-          "bla",
-          "bla"
-        ]
-      },
-      {
-        "company": "Masters in Yog Therapy",
-        "title": "Student",
-        "years": "10.2020- Present",
-        "mainTech": [
-          "bla"
-        ],
-        "technologies": [
-          "bla",
-          "bla"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Dhanurasana",
+      "startDate": "Prone Asana",
+      "description": "Dhanurasana has been named after the shape the body takes while performing it – that of a bow. Dhanu means bow and asana means posture or pose. Just as a well-strung bow is an asset to a warrior, a well-stretched body helps keep you flexible with a good posture. According to Gheranda Samhita, it improves flexibility of the body and helps in removing extra accumulated fat of abdomen.",
+      "images": [
+        "images/portfolio/asana2/p1.jpg",
+        "images/portfolio/asana2/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Paschimottanasana",
+      "startDate": "Sitting Asana",
+      "description": "is a classic pose from Hatha yoga. It gives the whole back of your body a good stretch, from your calves to your hamstrings (back of the thighs) to your spine.",
+      "images": [
+        "images/portfolio/asana3/p1.jpg",
+        "images/portfolio/asana3/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Matsyendrasana",
+      "startDate": "Sitting Asana",
+      "description": "Matsyendrasana, Matsyendra's Pose or Lord of the Fishes Pose, is a seated twisting asana in hatha yoga and modern yoga as exercise. The full form is the difficult Paripurna Matsyendrasana. A common and easier variant is Ardha Matsyendrasana. According to Gheranda Samhita, this posture expands the muscles of one half of the back and abdomen and compresses the muscles of the other half. It makes the spinal nerves healthy, makes the back muscles flexible.",
+      "images": [
+        "images/portfolio/asana4/p1.jpg",
+        "images/portfolio/asana4/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Kukkutasana",
+      "startDate": "Balancing asana",
+      "description": " Kukkut means a cockerel or rooster. Therefore Kukkutasana means Cockerel Pose or Rooster Pose. When performed, the posture looks like a cockerel. The name comes from the Sanskrit words kukkuṭā meaning 'cockerel' and asana (आसन) meaning 'posture' or 'seat'. The asana is described in medieval hatha yoga texts including the 7th century Ahirbudhnya Saṃhitā, the 13th century Vasishtha Samhita, the 15th century Haṭha Yoga Pradīpikā 1.23, the 17th century Gheraṇḍa Saṃhitā 2.31, and the Bahr al-hayat c. 1602. ",
+      "images": [
+        "images/portfolio/asana5/p1.jpg",
+        "images/portfolio/asana5/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tihar Jail",
+      "title": "Yoga Instructor",
+      "years": "05.2019",
+      "mainTech": [
+        "bla"
+      ],
+      "technologies": [
+        "bla",
+        "bla"
+      ]
+    },
+    {
+      "company": "Xiomi",
+      "title": "Intern",
+      "years": "01.2015",
+      "mainTech": [
+        "bla bla"
+      ],
+      "technologies": [
+        "bla",
+        "bla"
+      ]
+    },
+    {
+      "company": "Reliance",
+      "title": "Admin Head",
+      "years": "10.2017",
+      "mainTech": [
+        "bla"
+      ],
+      "technologies": [
+        "bla",
+        "bla"
+      ]
+    },
+    {
+      "company": "Diploma in Yog",
+      "title": "Student",
+      "years": "5.2018",
+      "mainTech": [
+        "bla"
+      ],
+      "technologies": [
+        "bla",
+        "bla"
+      ]
+    },
+    {
+      "company": "Masters in Yog Therapy",
+      "title": "Student",
+      "years": "10.2020- Present",
+      "mainTech": [
+        "bla"
+      ],
+      "technologies": [
+        "bla",
+        "bla"
+      ]
+    }
+  ]
+}
